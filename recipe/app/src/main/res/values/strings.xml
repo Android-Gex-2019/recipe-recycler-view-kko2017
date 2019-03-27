@@ -1,0 +1,11 @@
+<!--File: strings.xml-->
+<!--Author: KwangEun Oh-->
+<!--Date: Mar.24, 2019-->
+<!--Type: Assignment3-->
+
+<resources>
+    <string name="app_name">Recipe</string>
+    <string name="detail_name">Detail Activity</string>
+    <string name="title_direction">Direction</string>
+    <string name="title_ingredient">Ingredient</string>
+</resources>

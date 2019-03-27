@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--File: image_border.xml-->
+<!--Author: KwangEun Oh-->
+<!--Date: Mar.24, 2019-->
+<!--Type: Assignment3-->
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <stroke
+        android:width="7dp"
+        android:color="#de0707" />
+</shape>

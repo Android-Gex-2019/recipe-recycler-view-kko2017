@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--File: dimens.xml-->
+<!--Author: KwangEun Oh-->
+<!--Date: Mar.24, 2019-->
+<!--Type: Assignment3-->
+
+<resources>
+    <dimen name="line_spacing">5sp</dimen>
+    <dimen name="margin">7sp</dimen>
+</resources>
